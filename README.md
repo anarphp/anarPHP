@@ -1,11 +1,21 @@
-anarPHP
+#[anarPHP](http://anarphp.ir)
+### The modular PHP framework
 =======
-Web Site : Anarphp.ir
-Project Owner : Mohsen Ahmadian
-About Anar :
+##License
+GNU
+##Versioning
+
+Font Awesome will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
+with the following format:
+
+`<major>.<minor>.<patch>`
+##Author
+-Project Owner : Mohsen Ahmadian
+-Email: mohsen.etc@gmail.com
+#About Anar 
  Write Some thing About Anar
-Why Anar PHP :
+#Why Anar PHP 
   Write Some Description
-How to Use:
+#How to Use
   Write Quick Start  
-AnarPHP is New modular PHP framework
+  
