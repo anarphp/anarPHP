@@ -1,4 +1,4 @@
-#[anarPHP v1.1.9](http://anarphp.ir)
+#[anarPHP v1.1.13](http://anarphp.ir)
 ### The modular PHP framework
 =======
 ##License
@@ -20,7 +20,7 @@ with the following format:
  
 #Why Anar PHP 
 
-  AnarPHP is modular. In the php world you can find many framework but all of theme not modular .anar is only one framework is modular .
+  AnarPHP is modular and full MVC. In the php world you can find many framework but all of theme not modular .anar is only one framework is modular .
   This means when you develop your web application ( or website ) you can manage your app module ( remove / add / edit /reuse ).
   Joomla is CMS but Anar is framework not a CMS.when you use Anar your hands is open to create any module anar is small and fast.   
 #How to Use
