@@ -1,0 +1,28 @@
+<?php
+if ($this->control->getSend()){
+echo "Hello ".$this->control->readPost("uname");
+}
+?>
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h1>Saying Hello form</h1>
+    </div>
+    <div class="panel-body">
+        <form method="post">
+    <input type="hidden" name="send" value="1"/>
+    <div class="input-group">
+        <label for="uname" class="input-group-addon" >your name: </label>
+        <input type="text" name="uname" value="" class="form-control"/>
+    </div>
+    <br/>
+    <input type="submit" value="Say hello" class="btn btn-lg btn-success"/>
+</form>  
+    </div>
+  
+</div>
+
+<p>
+    <?php
+    print_r ($this->loadData("dt"));  
+    ?>
+</p>
